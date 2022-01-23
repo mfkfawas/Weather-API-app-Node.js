@@ -1,5 +1,5 @@
 const dotenv = require('dotenv')
-dotenv.config({ path: './config.env' })
+dotenv.config({ path: './.env' })
 const express = require('express')
 const https = require('https')
 const bodyParser = require('body-parser')
