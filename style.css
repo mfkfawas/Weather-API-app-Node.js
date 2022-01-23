@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  height: 100vh;
+  margin: 10%;
+  align-items: center;
+  justify-content: center;
+}
